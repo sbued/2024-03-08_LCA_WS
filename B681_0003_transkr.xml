@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/sbued/2024-03-08_LCA_WS/blob/main/tei_minimal_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/GuK-lca/test_public/97836f9288513bf33a3ca419bc100ce58a313c32/tei_minimal_v1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -13,34 +12,23 @@
                     noted.</p>
             </sourceDesc>
         </fileDesc>
-        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-                xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-                xmlns:as="http://www.w3.org/ns/activitystreams#"
-                xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
-                xmlns:dc="http://purl.org/dc/elements/1.1/"
-                xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
-                xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
-                xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-                xmlns:fabio="https://purl.org/spar/fabio#"
-                xmlns:bf="http://www.openlinksw.com/schemas/bif#"
-                xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
-                xmlns:org="http://www.w3.org/ns/org#"/></xenoData>
-    </teiHeader>
+        
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
     <text>
         <body>
             <div>
                 <pb facs="b3_0001.jpg" n="1"/>
                 <opener><dateline>ORT DATUM</dateline>
                 <salute>ANREDE</salute></opener>
-                <lg><l></l></lg>
+                <lg><l>ERSTE ZEILE</l></lg>
                 <pb facs="b3_0002.jpg" n="2"/>
-                <lg><l></l></lg>
+                <lg><l>ERSTE ZEILE</l></lg>
                 <pb facs="b3_0003.jpg" n="3"/>
-                <lg><l></l></lg>
+                <lg><l>ERSTE ZEILE</l></lg>
                 <pb facs="b3_0004.jpg" n="4"/>
-                <lg><l></l></lg>
+                <lg><l>ERSTE ZEILE</l></lg>
                 <pb facs="b3_0005.jpg" n="5"/>
-                <lg><l></l></lg>
+                <lg><l>ERSTE ZEILE</l></lg>
                 <closer>GRUSSFORMEL
                 <signed>SIGNATUR</signed></closer>
             </div>
