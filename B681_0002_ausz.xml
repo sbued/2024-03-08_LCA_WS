@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -13,19 +12,8 @@
                     noted.</p>
             </sourceDesc>
         </fileDesc>
-        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-                xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-                xmlns:as="http://www.w3.org/ns/activitystreams#"
-                xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
-                xmlns:dc="http://purl.org/dc/elements/1.1/"
-                xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
-                xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
-                xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-                xmlns:fabio="https://purl.org/spar/fabio#"
-                xmlns:bf="http://www.openlinksw.com/schemas/bif#"
-                xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
-                xmlns:org="http://www.w3.org/ns/org#"/></xenoData>
-    </teiHeader>
+        
+    <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
     <text>
         <body>
             <div>
@@ -52,7 +40,7 @@
                 <l>Du manchmal Dienst?</l>
                 <l>Wie geht es den Deinen? Was macht Edeltrude?</l>
                 <l>kommt Harras Ostern nach Eckernförde?</l></lg>
-                <pb facs="b2_0002.jpg" n="2"/>
+                <pb facs="https://github.com/sbued/2024-03-08_LCA_WS/blob/main/b2_0002.jpg" n="2"/>
                 <lg><l>Wann wird Edeltruck in den Westen fahren?</l>
                 <l>Es wird jetzt langsam wärmer, dann ist</l>
                 <l>es dort unten auch erträglich.</l>
@@ -77,7 +65,7 @@
                 <l>sein. Eva war so unglücklich gefallen, daß sie</l>
                 <l>sich fast das Auge einschlug. Klaus feiert krank,</l>
                 <l>er hat sich den Daumen verstaucht.</l></lg>
-                <pb facs="b2_0003.jpg" n="3"/>
+                <pb facs="https://github.com/sbued/2024-03-08_LCA_WS/blob/main/b2_0003.jpg" n="3"/>
                 <lg><l>Daß das Gemeindefest schön war, freut mich,</l>
                 <l>hat es auch ordentlich Geld eingebracht?</l>
                 <l>Schade, daß ich nicht dabei sein konnte.</l>
@@ -102,7 +90,7 @@
                 <l>zu schwach. Ich habe keine Kritiken darüber</l>
                 <l>gehört, und das ist nur meine völlig unmaß:¬</l>
                 <l>gebliche Meinung.</l></lg>
-                <pb facs="0004.jpg" n="4"/>
+                <pb facs="https://github.com/sbued/2024-03-08_LCA_WS/blob/main/0004.jpg" n="4"/>
                 <lg><l>Daß Du mich wegen „meines Artikels"</l>
                 <l>auslachst ist nicht nett, aber Du wirst</l>
                 <l>mit Deiner klugen Sachlichkeit wohl recht</l>
