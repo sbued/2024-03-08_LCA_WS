@@ -18,7 +18,7 @@
         <body>
             <div>
                 <pb facs="https://github.com/sbued/2024-03-08_LCA_WS/blob/main/b4_0001.jpg?raw=true" n="1"/>
-                <l>Hoch im Eichenwipfel sitzt</l>
+                <lg><l>Hoch im Eichenwipfel sitzt</l>
                 <l>Nun das Herz, das sie geritzet</l>
                 <l>Einst in junge Rinde</l>
                 <l>Wüchs der Baum auch bis zur Sonne</l>
@@ -33,12 +33,12 @@
                 <l>heute Kontrollversammlung mitge-</l>
                 <l>macht. Johanna trifft morgen</l>
                 <l> dort ein. Herzliche Grüße</l>
-                <l>Otto.</l>         
+                <l>Otto.</l></lg>         
                 <pb facs="https://github.com/sbued/2024-03-08_LCA_WS/blob/main/b4_0002.jpg?raw=true" n="1"/>
-                <l>Fräulein</l>
+                <lg><l>Fräulein</l>
                 <l>Elisabeth Anthes</l>
                 <l>Hanau a/M</l>
-                <l>Marktplatz 20</l>
+                <l>Marktplatz 20</l></lg>
             </div>
         </body>
     </text>
