@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sample Document Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+            </publicationStmt>
+            <sourceDesc sameAs="http://www.cwrc.ca">
+                <p>Created from original research by members of CWRC/CSÉC unless otherwise
+                    noted.</p>
+            </sourceDesc>
+        </fileDesc>
+        <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+                xmlns:as="http://www.w3.org/ns/activitystreams#"
+                xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#"
+                xmlns:dc="http://purl.org/dc/elements/1.1/"
+                xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/"
+                xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#"
+                xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+                xmlns:fabio="https://purl.org/spar/fabio#"
+                xmlns:bf="http://www.openlinksw.com/schemas/bif#"
+                xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#"
+                xmlns:org="http://www.w3.org/ns/org#"/></xenoData>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb facs="b2_0001.jpg" n="1"/>
+                <opener><dateline>Hamburg - Harburg, den  9.3. 56</dateline>
+                <salute>Lieber Gerhard!</salute></opener>
+                <lg><l>Recht vielen Dank für Deinen</l>
+                <l>Brief. Um ganz ehrlich zu sein, ich</l>
+                <l>war wirklich böse und etwas enttäuscht,</l>
+                <l>nichts aus Eckernförde zu hören; sogar</l>
+                <l>zu Hause hab' ich mich darüber beklagt.</l>
+                <l>Um so glücklicher und überraschter war</l>
+                <l>ich, als Du mir schriebst.</l>
+                <l>Ich danke Dir für das Bild, auch mir</l>
+                <l>gefällt es gut. Weshalb sollte ich böse</l>
+                <l>sein, daß Du mich einhakst, es ist sehr</l>
+                <l>nett.</l>
+                <l>Wie gefällt Dir „die graue Stadt?" Oder</l>
+                <l>hast Du wenig Zeit, Dich umzusehen?</l>
+                <l>Wir waren in der Schulzeit 4 Tage mit</l>
+                <l>Herrn Rauter dort, hatten herrliches Wetter</l>
+                <l>und dadurch einen ganz anderen Eindruck.</l>
+                <l>Fährst Du sonntags nach Hause, oder hast</l>
+                <l>Du manchmal Dienst?</l>
+                <l>Wie geht es den Deinen? Was macht Edeltrude?</l>
+                <l>kommt Harras Ostern nach Eckernförde?</l></lg>
+                <pb facs="b2_0002.jpg" n="2"/>
+                <lg><l>Wann wird Edeltruck in den Westen fahren?</l>
+                <l>Es wird jetzt langsam wärmer, dann ist</l>
+                <l>es dort unten auch erträglich.</l>
+                <l>In einer Woche gehe ich in die Nacht:¬</l>
+                <l>wache, und zu Ostern werde ich in Bochum</l>
+                <l>sein. Du kannst Dir nicht vorstellen, wie</l>
+                <l>ich mich darauf freue. Anfang Januar</l>
+                <l>war ich zuletzt dort. Mutti geht es nicht</l>
+                <l>gut, und sie wartet, daß ich nach Hause</l>
+                <l>komme. Vati ist diese Woche in Freiburg,</l>
+                <l>heute erhielt ich eine Ansichtskarte.</l>
+                <l>"In den kalten Tagen war es in unserem</l>
+                <l>kleinen Häuschen unerträglich. Ein Wasserrohr</l>
+                <l>war geplatzt, jeden Tag mußte man den</l>
+                <l>Haupthahn auftauen, die Betten anwärmen,</l>
+                <l>Flüssiges nahm feste Formen an, die man mit</l>
+                <l>dem Namen Eis betituliert, die Küche wurde</l>
+                <l>nicht warm, und das Leben spielte sich in</l>
+                <l>Vatis Arbeitszimmer ab". So schrieb mir</l>
+                <l>Vati die Neuigheiten vom 'Unternehmen Eispalast'.</l>
+                <l>Nun wird auch dort der Frühling eingekehrt</l>
+                <l>sein. Eva war so unglücklich gefallen, daß sie</l>
+                <l>sich fast das Auge einschlug. Klaus feiert krank,</l>
+                <l>er hat sich den Daumen verstaucht.</l></lg>
+                <pb facs="b2_0003.jpg" n="3"/>
+                <lg><l>Daß das Gemeindefest schön war, freut mich,</l>
+                <l>hat es auch ordentlich Geld eingebracht?</l>
+                <l>Schade, daß ich nicht dabei sein konnte.</l>
+                <l>Auf unserem Rosenmontagsfest habe ich</l>
+                <l>mich gut amüsiert. Anfangs war ich ein</l>
+                <l>bißchen einsam; es ist wohl so, wenn man</l>
+                <l>als Mädel allein geht. Es fand sich aber</l>
+                <l>bald eine fröhliche Gesellschaft zusammen.</l>
+                <l>Wir tanzten den ganzen Abend. Ich glaube</l>
+                <l>fast, jetzt kann ich es, bis auf die ganz</l>
+                <l>modernen Tänze. Hast Du eigentlich</l>
+                <l>tanzen gelernt? Tanzt Du gern?</l>
+                <l>Wir haben ja Fastenzeit. Am Sonntag werde</l>
+                <l>ich einen Einkehrtag mitmachen. Zum ersten</l>
+                <l>Mal, daß ich dabei sein kann. Ich bin gespannt,</l>
+                <l>wie es werden wird. Hast Du schon so etwas</l>
+                <l>mithalten können?</l>
+                <l>Vor 14 Tagen war ich in der Oper und</l>
+                <l>hörte den fliegenden Holländer. Es war</l>
+                <l>meine erste Wagneroper. Die Musik war</l>
+                <l>großartig, dagegen fand ich die Sänger etwas</l>
+                <l>zu schwach. Ich habe keine Kritiken darüber</l>
+                <l>gehört, und das ist nur meine völlig unmaß:¬</l>
+                <l>gebliche Meinung.</l></lg>
+                <pb facs="0004.jpg" n="4"/>
+                <lg><l>Daß Du mich wegen „meines Artikels"</l>
+                <l>auslachst ist nicht nett, aber Du wirst</l>
+                <l>mit Deiner klugen Sachlichkeit wohl recht</l>
+                <l>haben. Dies war mal wieder meine Frauen:¬</l>
+                <l>logik, und die ist sehr schwer verständlich!</l>
+                <l>Habe ich Dich damit sehr geärgert?</l>
+                <l>Darf ich Dich mit Politik belästigen?</l>
+                <l>oder diskutierst Die nicht gern mit einer</l>
+                <l>Frau darüber, dabei bei dieser Logik!? Es ist</l>
+                <l>auch schwierig, darüber zu schreiben.</l>
+                <l>Was sagst Du zum Wahlergebnis in Nordrhein:¬</l>
+                <l>westfalen und zur neuen Regierungsbildung?</l>
+                <l>Was hältst Du vom Zentrum? Ich bin neugierig</l>
+                <l>auf Deine Ansicht. Eine Reihe Menschen haben mir</l>
+                <l>die ihre gesagt, sodaß ich vorerst schweigen</l>
+                <l>möchte. Ist das feige?</l>
+                <l>Lieber Gerhard! Das wäre erstmal alles.</l>
+                <l>Wirst Du mir antworten, wo Du</l>
+                <l>doch in einem "schönen, sauberen</l>
+                <l>und geheizten Zimmer wohnst?</l></lg>
+                <closer>Es grüßt Dich herzlich
+                <signed>Deine Elisabeth</signed></closer>
+            </div>
+        </body>
+    </text>
+</TEI>
