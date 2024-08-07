@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/GuK-lca/test_public/97836f9288513bf33a3ca419bc100ce58a313c32/tei_minimal_v1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/GuK-lca/test_public/97836f9288513bf33a3ca419bc100ce58a313c32/tei_minimal_v1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -177,7 +180,7 @@
                 <pb facs="https://github.com/sbued/2024-03-08_LCA_WS/blob/main/b3_0001.jpg?raw=true" n="1"/>
                 <opener><dateline><placeName key="Husum (Kreis Nordfriesland, Region)" ref="https://d-nb.info/gnd/4026250-9">Husum</placeName>, den <date when="1956-03-19">19.3.56</date></dateline>
                 <salute>Liebe Elisabeth!</salute></opener>
-                <lg><l>Zwar habe ich es nicht fertig-</l><l>gebracht, Dir so propz zu antworten, wie</l><l>du es gestern ...</l><l>nicht so lange ...</l><l/><l/><l/><l/><l/><l/><l/></lg>
+                <lg><l>Zwar habe ich es nicht fertig-</l><l>gebracht, Dir so propz zu antworten, wie</l><l>du es gestern ...</l><l>nicht so lange ...</l><l/></lg>
                 <pb facs="https://github.com/sbued/2024-03-08_LCA_WS/blob/main/b3_0002.jpg?raw=true" n="2"/>
                 <lg><l>ERSTE ZEILE</l></lg>
                 <pb facs="https://github.com/sbued/2024-03-08_LCA_WS/blob/main/b3_0003.jpg?raw=true" n="3"/>
