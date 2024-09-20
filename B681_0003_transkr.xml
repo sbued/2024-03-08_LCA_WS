@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/GuK-lca/test_public/97836f9288513bf33a3ca419bc100ce58a313c32/tei_minimal_v1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -180,7 +180,7 @@
                 <lg><l>Zwar habe ich es nicht fertig-</l><l>gebracht, Dir so prompt zu antworten, wie</l><l>du es gestan...</l></lg>
                 <pb facs="https://github.com/sbued/2024-03-08_LCA_WS/blob/main/b3_0002.jpg?raw=true" n="2"/>
                 <lg><l>ERSTE ZEILE</l></lg>
-				<lb/> zweite Zeile</div><div>				<lb/> dritte...</div><div/><div/><div>                <pb facs="https://github.com/sbued/2024-03-08_LCA_WS/blob/main/b3_0003.jpg?raw=true" n="3"/>
+				                <pb facs="https://github.com/sbued/2024-03-08_LCA_WS/blob/main/b3_0003.jpg?raw=true" n="3"/>
                 <lg><l>ERSTE ZEILE</l></lg>
                 <pb facs="https://github.com/sbued/2024-03-08_LCA_WS/blob/main/b3_0004.jpg?raw=true" n="4"/>
                 <lg><l>ERSTE ZEILE</l></lg>
